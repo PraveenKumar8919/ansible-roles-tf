@@ -2,9 +2,9 @@ MONGODB_HOST: mongodb-dev.praveenaws.online # submit your host
 REDIS_HOST: redis-dev.praveenaws.online
 MYSQL_HOST: mysql-dev.praveenaws.online
 RABBITMQ_HOST: rabbitmq-dev.praveenaws.online
-CATALOGUE_HOST: catalogue-dev.praveenaws.online
-USER_HOST: user-dev.praveenaws.online
-CART_HOST: cart-dev.praveenaws.online
-SHIPPING_HOST: shipping-dev.praveenaws.online
-PAYMENT_HOST: payment-dev.praveenaws.online
-DISPATCH_HOST: dispatch-dev.praveenaws.online
+CATALOGUE_HOST: catalogue.app-dev.praveenaws.online
+USER_HOST: user.app-dev.praveenaws.online
+CART_HOST: cart.app-dev.praveenaws.online
+SHIPPING_HOST: shipping.app-dev.praveenaws.online
+PAYMENT_HOST: payment.app-dev.praveenaws.online
+DISPATCH_HOST: dispatch.app-dev.praveenaws.online
